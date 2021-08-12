@@ -10,6 +10,7 @@
 		3A441EDA26C42F4B00A35046 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441ED926C42F4B00A35046 /* main.swift */; };
 		3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE026C4303900A35046 /* 2. Missing number.swift */; };
 		3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */; };
+		3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,8 @@
 		3A441ED926C42F4B00A35046 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3A441EE026C4303900A35046 /* 2. Missing number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Missing number.swift"; sourceTree = "<group>"; };
 		3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Contains Duplicate.swift"; sourceTree = "<group>"; };
+		3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
+		3AAAC10426C45A2F00E4C994 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +48,7 @@
 		3A441ECD26C42F4B00A35046 = {
 			isa = PBXGroup;
 			children = (
+				3AAAC10426C45A2F00E4C994 /* README.md */,
 				3A441ED826C42F4B00A35046 /* LeetcodePatterns */,
 				3A441ED726C42F4B00A35046 /* Products */,
 			);
@@ -64,6 +68,7 @@
 				3A441ED926C42F4B00A35046 /* main.swift */,
 				3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */,
 				3A441EE026C4303900A35046 /* 2. Missing number.swift */,
+				3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */,
 			);
 			path = LeetcodePatterns;
 			sourceTree = "<group>";
@@ -128,6 +133,7 @@
 			files = (
 				3A441EDA26C42F4B00A35046 /* main.swift in Sources */,
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
+				3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */,
 				3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

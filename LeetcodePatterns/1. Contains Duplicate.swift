@@ -10,7 +10,7 @@ import Foundation
 // Leetcode: 217. Contains Duplicate
 // https://leetcode.com/problems/contains-duplicate/
 
-class Solution {
+class Solution217 {
     func containsDuplicate(_ nums: [Int]) -> Bool {
         let set = Set(nums)
         return set.count != nums.count

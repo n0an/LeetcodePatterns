@@ -10,7 +10,7 @@ import Foundation
 // Leetcode: 268. Missing Number
 // https://leetcode.com/problems/missing-number/
 
-class Solution {
+class Solution268 {
     func missingNumber(_ nums: [Int]) -> Int {
         let n = nums.count
         return n * (n+1) / 2 - nums.reduce(0, +)
