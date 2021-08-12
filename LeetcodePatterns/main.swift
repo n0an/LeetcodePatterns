@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
+let s = Solution70()
+
+print(s.climbStairs(5))
 
