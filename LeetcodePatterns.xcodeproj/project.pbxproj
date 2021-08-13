@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A18026526C6D46900AD6AC9 /* 11. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18026426C6D46900AD6AC9 /* 11. Middle of the Linked List.swift */; };
 		3A441EDA26C42F4B00A35046 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441ED926C42F4B00A35046 /* main.swift */; };
 		3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE026C4303900A35046 /* 2. Missing number.swift */; };
 		3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3A18026426C6D46900AD6AC9 /* 11. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		3A441ED626C42F4B00A35046 /* LeetcodePatterns */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetcodePatterns; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A441ED926C42F4B00A35046 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3A441EE026C4303900A35046 /* 2. Missing number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Missing number.swift"; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 				3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */,
 				3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */,
 				3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */,
+				3A18026426C6D46900AD6AC9 /* 11. Middle of the Linked List.swift */,
 			);
 			path = LeetcodePatterns;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			files = (
 				3ABF220C26C5757700C59FE3 /* 7. Maximum Subarray.swift in Sources */,
 				3A441EDA26C42F4B00A35046 /* main.swift in Sources */,
+				3A18026526C6D46900AD6AC9 /* 11. Middle of the Linked List.swift in Sources */,
 				3ABF220826C532F900C59FE3 /* 5. Climbing Stairs.swift in Sources */,
 				3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */,
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
