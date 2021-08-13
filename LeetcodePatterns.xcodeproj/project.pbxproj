@@ -10,6 +10,7 @@
 		3A441EDA26C42F4B00A35046 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441ED926C42F4B00A35046 /* main.swift */; };
 		3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE026C4303900A35046 /* 2. Missing number.swift */; };
 		3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */; };
+		3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */; };
 		3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */; };
 		3ABF220626C52DE300C59FE3 /* 4. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220526C52DE300C59FE3 /* 4. Single Number.swift */; };
 		3ABF220826C532F900C59FE3 /* 5. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220726C532F900C59FE3 /* 5. Climbing Stairs.swift */; };
@@ -34,6 +35,7 @@
 		3A441ED926C42F4B00A35046 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3A441EE026C4303900A35046 /* 2. Missing number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Missing number.swift"; sourceTree = "<group>"; };
 		3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Contains Duplicate.swift"; sourceTree = "<group>"; };
+		3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		3AAAC10426C45A2F00E4C994 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3ABF220526C52DE300C59FE3 /* 4. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. Single Number.swift"; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				3ABF220726C532F900C59FE3 /* 5. Climbing Stairs.swift */,
 				3ABF220926C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift */,
 				3ABF220B26C5757700C59FE3 /* 7. Maximum Subarray.swift */,
+				3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */,
 			);
 			path = LeetcodePatterns;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
 				3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */,
 				3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */,
+				3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */,
 				3ABF220626C52DE300C59FE3 /* 4. Single Number.swift in Sources */,
 				3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */,
 			);
