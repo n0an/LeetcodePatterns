@@ -7,7 +7,7 @@
 
 import Foundation
 
-let s = Solution70()
+let s = Solution338()
 
-print(s.climbStairs(5))
+print(s.countBits(10))
 
