@@ -15,6 +15,7 @@
 		3A441EDA26C42F4B00A35046 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441ED926C42F4B00A35046 /* main.swift */; };
 		3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE026C4303900A35046 /* 2. Missing number.swift */; };
 		3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */; };
+		3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C1A26CA5919005C848F /* 16. Merge Two Sorted Lists.swift */; };
 		3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */; };
 		3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */; };
 		3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */; };
@@ -47,6 +48,7 @@
 		3A441ED926C42F4B00A35046 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3A441EE026C4303900A35046 /* 2. Missing number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Missing number.swift"; sourceTree = "<group>"; };
 		3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Contains Duplicate.swift"; sourceTree = "<group>"; };
+		3A453C1A26CA5919005C848F /* 16. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
 		3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Counting Bits.swift"; sourceTree = "<group>"; };
 		3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10. Linked List Cycle.swift"; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				3A18026A26C9823B00AD6AC9 /* 13. Remove Linked List Elements.swift */,
 				3A18026C26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift */,
 				3A18026626C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift */,
+				3A453C1A26CA5919005C848F /* 16. Merge Two Sorted Lists.swift */,
 			);
 			path = LeetcodePatterns;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				3A18026726C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift in Sources */,
 				3A18026D26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift in Sources */,
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
+				3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */,
 				3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */,
 				3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */,
 				3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */,
