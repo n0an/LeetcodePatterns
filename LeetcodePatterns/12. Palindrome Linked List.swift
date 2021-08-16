@@ -26,7 +26,7 @@ class Solution234 {
         
         var straightNode: ListNode? = head
         
-        var middle = self.middleNode(head)
+        let middle = self.middleNode(head)
         var reversed = self.reverseList(middle)
         
         while reversed != nil {

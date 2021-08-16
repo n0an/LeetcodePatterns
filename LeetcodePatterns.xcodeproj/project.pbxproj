@@ -19,6 +19,8 @@
 		3A453C1F26CA6942005C848F /* 17. Meeting Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C1E26CA6942005C848F /* 17. Meeting Rooms.swift */; };
 		3A453C2126CA8A24005C848F /* 18. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C2026CA8A24005C848F /* 18. Binary Search.swift */; };
 		3A453C2326CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C2226CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift */; };
+		3A453C2526CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C2426CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift */; };
+		3A453C2726CAAFBA005C848F /* 21. Average of Levels in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C2626CAAFBA005C848F /* 21. Average of Levels in Binary Tree.swift */; };
 		3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */; };
 		3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */; };
 		3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */; };
@@ -55,6 +57,8 @@
 		3A453C1E26CA6942005C848F /* 17. Meeting Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Meeting Rooms.swift"; sourceTree = "<group>"; };
 		3A453C2026CA8A24005C848F /* 18. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18. Binary Search.swift"; sourceTree = "<group>"; };
 		3A453C2226CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Find Smallest Letter Greater Than Target.swift"; sourceTree = "<group>"; };
+		3A453C2426CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Peak Index in a Mountain Array.swift"; sourceTree = "<group>"; };
+		3A453C2626CAAFBA005C848F /* 21. Average of Levels in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21. Average of Levels in Binary Tree.swift"; sourceTree = "<group>"; };
 		3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Counting Bits.swift"; sourceTree = "<group>"; };
 		3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10. Linked List Cycle.swift"; sourceTree = "<group>"; };
@@ -117,6 +121,8 @@
 				3A453C1E26CA6942005C848F /* 17. Meeting Rooms.swift */,
 				3A453C2026CA8A24005C848F /* 18. Binary Search.swift */,
 				3A453C2226CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift */,
+				3A453C2426CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift */,
+				3A453C2626CAAFBA005C848F /* 21. Average of Levels in Binary Tree.swift */,
 			);
 			path = LeetcodePatterns;
 			sourceTree = "<group>";
@@ -187,6 +193,7 @@
 				3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */,
 				3A18026726C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift in Sources */,
 				3A18026D26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift in Sources */,
+				3A453C2526CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift in Sources */,
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
 				3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */,
 				3A453C1F26CA6942005C848F /* 17. Meeting Rooms.swift in Sources */,
@@ -197,6 +204,7 @@
 				3A453C2326CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift in Sources */,
 				3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */,
 				3A453C2126CA8A24005C848F /* 18. Binary Search.swift in Sources */,
+				3A453C2726CAAFBA005C848F /* 21. Average of Levels in Binary Tree.swift in Sources */,
 				3ABF220626C52DE300C59FE3 /* 4. Single Number.swift in Sources */,
 				3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */,
 			);

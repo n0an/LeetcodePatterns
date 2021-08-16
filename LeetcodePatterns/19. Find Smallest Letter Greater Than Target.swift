@@ -16,7 +16,7 @@ class Solution744 {
         var right = letters.count - 1
         
         while left <= right {
-            var middle = left + (right - left) / 2
+            let middle = left + (right - left) / 2
             
             if letters[middle] > target {
                 right = middle - 1

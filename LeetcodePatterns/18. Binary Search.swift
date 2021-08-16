@@ -16,7 +16,7 @@ class Solution704 {
         var right = nums.count - 1
         
         while left <= right {
-            var currentMiddleIndex = left + (right - left) / 2
+            let currentMiddleIndex = left + (right - left) / 2
             
             if nums[currentMiddleIndex] == target {
                 return currentMiddleIndex
