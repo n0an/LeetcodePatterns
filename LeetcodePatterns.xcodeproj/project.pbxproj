@@ -17,6 +17,8 @@
 		3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */; };
 		3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C1A26CA5919005C848F /* 16. Merge Two Sorted Lists.swift */; };
 		3A453C1F26CA6942005C848F /* 17. Meeting Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C1E26CA6942005C848F /* 17. Meeting Rooms.swift */; };
+		3A453C2126CA8A24005C848F /* 18. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C2026CA8A24005C848F /* 18. Binary Search.swift */; };
+		3A453C2326CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A453C2226CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift */; };
 		3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */; };
 		3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */; };
 		3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */; };
@@ -51,6 +53,8 @@
 		3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Contains Duplicate.swift"; sourceTree = "<group>"; };
 		3A453C1A26CA5919005C848F /* 16. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
 		3A453C1E26CA6942005C848F /* 17. Meeting Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Meeting Rooms.swift"; sourceTree = "<group>"; };
+		3A453C2026CA8A24005C848F /* 18. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18. Binary Search.swift"; sourceTree = "<group>"; };
+		3A453C2226CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Find Smallest Letter Greater Than Target.swift"; sourceTree = "<group>"; };
 		3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Counting Bits.swift"; sourceTree = "<group>"; };
 		3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10. Linked List Cycle.swift"; sourceTree = "<group>"; };
@@ -111,6 +115,8 @@
 				3A18026626C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift */,
 				3A453C1A26CA5919005C848F /* 16. Merge Two Sorted Lists.swift */,
 				3A453C1E26CA6942005C848F /* 17. Meeting Rooms.swift */,
+				3A453C2026CA8A24005C848F /* 18. Binary Search.swift */,
+				3A453C2226CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift */,
 			);
 			path = LeetcodePatterns;
 			sourceTree = "<group>";
@@ -188,7 +194,9 @@
 				3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */,
 				3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */,
 				3A18026B26C9823B00AD6AC9 /* 13. Remove Linked List Elements.swift in Sources */,
+				3A453C2326CA942F005C848F /* 19. Find Smallest Letter Greater Than Target.swift in Sources */,
 				3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */,
+				3A453C2126CA8A24005C848F /* 18. Binary Search.swift in Sources */,
 				3ABF220626C52DE300C59FE3 /* 4. Single Number.swift in Sources */,
 				3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */,
 			);
