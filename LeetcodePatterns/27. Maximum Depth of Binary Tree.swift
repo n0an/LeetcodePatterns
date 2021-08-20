@@ -13,22 +13,9 @@ import Foundation
 class Solution104 {
     func maxDepth(_ root: TreeNode?) -> Int {
         guard let node = root else { return 0 }
-        var maxDepth = 0
-        getMaxDepth(node, 0, &maxDepth)
-        return maxDepth
-    }
-    
-    func getMaxDepth(_ node: TreeNode?, _ depth: Int, _ maxDepth: inout Int) {
         
-        guard let node = node else {
-            return
-        }
-        
-        if node.left == nil && node.right == nil {
-            maxDepth = max(maxDepth, depth + 1)
-        }
-        
-        getMaxDepth(node.left, depth + 1, &maxDepth)
-        getMaxDepth(node.right, depth + 1, &maxDepth)
+        let leftDepth = maxDepth(node.left)
+        let rightDepth = maxDepth(node.right)
+        return max(leftDepth, rightDepth) + 1
     }
 }
