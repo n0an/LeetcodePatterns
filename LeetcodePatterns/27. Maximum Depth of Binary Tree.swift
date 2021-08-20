@@ -10,7 +10,7 @@ import Foundation
 // 104. Maximum Depth of Binary Tree
 // https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
-class Solution {
+class Solution104 {
     func maxDepth(_ root: TreeNode?) -> Int {
         guard let node = root else { return 0 }
         var maxDepth = 0
