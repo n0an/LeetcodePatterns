@@ -18,7 +18,7 @@ class Solution844 {
         
         for letter in s {
             if letter == "#" {
-                _ stack1.popLast()
+                _ = stack1.popLast()
             } else {
                 stack1.append(letter)
             }
@@ -26,7 +26,7 @@ class Solution844 {
         
         for letter in t {
             if letter == "#" {
-                _ stack2.popLast()
+                _ = stack2.popLast()
             } else {
                 stack2.append(letter)
             }
