@@ -15,7 +15,7 @@ class Solution226 {
         
         guard let node = root else { return nil }
                 
-        var tmp = node.left
+        let tmp = node.left
         node.left = node.right
         node.right = tmp
         
@@ -23,8 +23,8 @@ class Solution226 {
             return node
         }
         
-        invertTree(node.left)
-        invertTree(node.right)
+        _ = invertTree(node.left)
+        _ = invertTree(node.right)
         
         return root
     }
