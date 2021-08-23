@@ -11,21 +11,16 @@ import Foundation
 // https://leetcode.com/problems/invert-binary-tree/
 
 class Solution226 {
+
     func invertTree(_ root: TreeNode?) -> TreeNode? {
         
         guard let node = root else { return nil }
-                
-        let tmp = node.left
-        node.left = node.right
+               
+        let tmp = invertTree(node.left)
+        
+        node.left = invertTree(node.right)
         node.right = tmp
         
-        if node.left == nil && node.right == nil {
-            return node
-        }
-        
-        _ = invertTree(node.left)
-        _ = invertTree(node.right)
-        
-        return root
+        return node
     }
 }
