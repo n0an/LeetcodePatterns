@@ -32,6 +32,7 @@
 		3A55734926D255F7005A9562 /* 29. Subtree of Another Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A55734826D255F7005A9562 /* 29. Subtree of Another Tree.swift */; };
 		3A55734B26D2563E005A9562 /* 30. Invert Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A55734A26D2563E005A9562 /* 30. Invert Binary Tree.swift */; };
 		3A6F44E726D37E5D00348AB9 /* 31. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */; };
+		3A6F44E926D388DC00348AB9 /* 32. Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */; };
 		3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */; };
 		3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */; };
 		3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */; };
@@ -81,6 +82,7 @@
 		3A55734826D255F7005A9562 /* 29. Subtree of Another Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. Subtree of Another Tree.swift"; sourceTree = "<group>"; };
 		3A55734A26D2563E005A9562 /* 30. Invert Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. Invert Binary Tree.swift"; sourceTree = "<group>"; };
 		3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. Two Sum.swift"; sourceTree = "<group>"; };
+		3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
 		3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Counting Bits.swift"; sourceTree = "<group>"; };
 		3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10. Linked List Cycle.swift"; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				3A55734826D255F7005A9562 /* 29. Subtree of Another Tree.swift */,
 				3A55734A26D2563E005A9562 /* 30. Invert Binary Tree.swift */,
 				3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */,
+				3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */,
 			);
 			path = LeetcodePatterns;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */,
 				3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */,
 				3A453C2B26CAC15F005C848F /* 23. Same Tree.swift in Sources */,
+				3A6F44E926D388DC00348AB9 /* 32. Squares of a Sorted Array.swift in Sources */,
 				3A55734B26D2563E005A9562 /* 30. Invert Binary Tree.swift in Sources */,
 				3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */,
 				3A18026B26C9823B00AD6AC9 /* 13. Remove Linked List Elements.swift in Sources */,
