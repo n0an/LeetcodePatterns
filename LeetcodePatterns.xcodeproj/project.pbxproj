@@ -135,6 +135,15 @@
 			children = (
 				3A441ED926C42F4B00A35046 /* main.swift */,
 				3A453C3026CD302F005C848F /* TreeNode.swift */,
+				3A910BB326D50C07008E4D0B /* Easy */,
+				3A910BB426D50C10008E4D0B /* Medium */,
+			);
+			path = LeetcodePatterns;
+			sourceTree = "<group>";
+		};
+		3A910BB326D50C07008E4D0B /* Easy */ = {
+			isa = PBXGroup;
+			children = (
 				3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */,
 				3A441EE026C4303900A35046 /* 2. Missing number.swift */,
 				3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */,
@@ -170,9 +179,16 @@
 				3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */,
 				3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */,
 				3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		3A910BB426D50C10008E4D0B /* Medium */ = {
+			isa = PBXGroup;
+			children = (
 				3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */,
 			);
-			path = LeetcodePatterns;
+			path = Medium;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
