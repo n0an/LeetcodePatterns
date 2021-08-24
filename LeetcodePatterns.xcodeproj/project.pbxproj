@@ -36,6 +36,7 @@
 		3A6F44EB26D38E3400348AB9 /* 33. Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */; };
 		3A910BAE26D50901008E4D0B /* 36. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */; };
 		3A910BB026D509FF008E4D0B /* 34. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */; };
+		3A910BB226D50B22008E4D0B /* 35. Index Pairs of a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */; };
 		3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */; };
 		3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */; };
 		3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */; };
@@ -89,6 +90,7 @@
 		3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "33. Backspace String Compare.swift"; sourceTree = "<group>"; };
 		3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. Majority Element.swift"; sourceTree = "<group>"; };
+		3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Index Pairs of a String.swift"; sourceTree = "<group>"; };
 		3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Counting Bits.swift"; sourceTree = "<group>"; };
 		3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10. Linked List Cycle.swift"; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 				3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */,
 				3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */,
 				3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */,
+				3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */,
 				3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */,
 			);
 			path = LeetcodePatterns;
@@ -232,6 +235,7 @@
 			files = (
 				3ABF220C26C5757700C59FE3 /* 7. Maximum Subarray.swift in Sources */,
 				3A453C2926CAB96A005C848F /* 22. Minimum Depth of Binary Tree.swift in Sources */,
+				3A910BB226D50B22008E4D0B /* 35. Index Pairs of a String.swift in Sources */,
 				3A441EDA26C42F4B00A35046 /* main.swift in Sources */,
 				3A18026926C7BE9B00AD6AC9 /* 12. Palindrome Linked List.swift in Sources */,
 				3A55734726D1305E005A9562 /* 28. Lowest Common Ancestor of a Binary Search Tree.swift in Sources */,
