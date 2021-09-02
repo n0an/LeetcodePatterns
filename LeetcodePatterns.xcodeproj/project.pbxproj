@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A0353DE26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0353DD26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift */; };
+		3A0353E026E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0353DF26E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift */; };
 		3A18026526C6D46900AD6AC9 /* 11. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18026426C6D46900AD6AC9 /* 11. Middle of the Linked List.swift */; };
 		3A18026726C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18026626C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift */; };
 		3A18026926C7BE9B00AD6AC9 /* 12. Palindrome Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18026826C7BE9B00AD6AC9 /* 12. Palindrome Linked List.swift */; };
@@ -60,6 +62,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3A0353DD26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "37. Find the Duplicate Number.swift"; sourceTree = "<group>"; };
+		3A0353DF26E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "38. Find All Duplicates in an Array.swift"; sourceTree = "<group>"; };
 		3A18026426C6D46900AD6AC9 /* 11. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		3A18026626C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		3A18026826C7BE9B00AD6AC9 /* 12. Palindrome Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Palindrome Linked List.swift"; sourceTree = "<group>"; };
@@ -187,6 +191,8 @@
 			isa = PBXGroup;
 			children = (
 				3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */,
+				3A0353DD26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift */,
+				3A0353DF26E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -266,6 +272,8 @@
 				3A910BB026D509FF008E4D0B /* 34. Majority Element.swift in Sources */,
 				3A55734526CED158005A9562 /* 27. Maximum Depth of Binary Tree.swift in Sources */,
 				3A453C2526CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift in Sources */,
+				3A0353DE26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift in Sources */,
+				3A0353E026E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift in Sources */,
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
 				3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */,
 				3A453C1F26CA6942005C848F /* 17. Meeting Rooms.swift in Sources */,
