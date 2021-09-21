@@ -14,6 +14,7 @@
 		3A18026926C7BE9B00AD6AC9 /* 12. Palindrome Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18026826C7BE9B00AD6AC9 /* 12. Palindrome Linked List.swift */; };
 		3A18026B26C9823B00AD6AC9 /* 13. Remove Linked List Elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18026A26C9823B00AD6AC9 /* 13. Remove Linked List Elements.swift */; };
 		3A18026D26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A18026C26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift */; };
+		3A232CB426FA736600B5D389 /* 39. Set Matrix Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A232CB326FA736600B5D389 /* 39. Set Matrix Zeroes.swift */; };
 		3A441EDA26C42F4B00A35046 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441ED926C42F4B00A35046 /* main.swift */; };
 		3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE026C4303900A35046 /* 2. Missing number.swift */; };
 		3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A441EE226C4308F00A35046 /* 1. Contains Duplicate.swift */; };
@@ -69,6 +70,7 @@
 		3A18026826C7BE9B00AD6AC9 /* 12. Palindrome Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. Palindrome Linked List.swift"; sourceTree = "<group>"; };
 		3A18026A26C9823B00AD6AC9 /* 13. Remove Linked List Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Remove Linked List Elements.swift"; sourceTree = "<group>"; };
 		3A18026C26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
+		3A232CB326FA736600B5D389 /* 39. Set Matrix Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Set Matrix Zeroes.swift"; sourceTree = "<group>"; };
 		3A441ED626C42F4B00A35046 /* LeetcodePatterns */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetcodePatterns; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A441ED926C42F4B00A35046 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3A441EE026C4303900A35046 /* 2. Missing number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Missing number.swift"; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */,
 				3A0353DD26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift */,
 				3A0353DF26E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift */,
+				3A232CB326FA736600B5D389 /* 39. Set Matrix Zeroes.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				3A55734526CED158005A9562 /* 27. Maximum Depth of Binary Tree.swift in Sources */,
 				3A453C2526CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift in Sources */,
 				3A0353DE26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift in Sources */,
+				3A232CB426FA736600B5D389 /* 39. Set Matrix Zeroes.swift in Sources */,
 				3A0353E026E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift in Sources */,
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
 				3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */,
