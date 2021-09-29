@@ -43,6 +43,7 @@
 		3A94605C26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */; };
 		3A94605E26C6A37D000CE186 /* 9. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */; };
 		3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */; };
+		3AA0F9EB27046DF40067891B /* 40. Spiral Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA0F9EA27046DF40067891B /* 40. Spiral Matrix.swift */; };
 		3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */; };
 		3ABF220626C52DE300C59FE3 /* 4. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220526C52DE300C59FE3 /* 4. Single Number.swift */; };
 		3ABF220826C532F900C59FE3 /* 5. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220726C532F900C59FE3 /* 5. Climbing Stairs.swift */; };
@@ -100,6 +101,7 @@
 		3A94605B26C69FE4000CE186 /* 8. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		3A94605D26C6A37D000CE186 /* 9. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Counting Bits.swift"; sourceTree = "<group>"; };
 		3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10. Linked List Cycle.swift"; sourceTree = "<group>"; };
+		3AA0F9EA27046DF40067891B /* 40. Spiral Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "40. Spiral Matrix.swift"; sourceTree = "<group>"; };
 		3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		3AAAC10426C45A2F00E4C994 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3ABF220526C52DE300C59FE3 /* 4. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. Single Number.swift"; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 				3A0353DD26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift */,
 				3A0353DF26E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift */,
 				3A232CB326FA736600B5D389 /* 39. Set Matrix Zeroes.swift */,
+				3AA0F9EA27046DF40067891B /* 40. Spiral Matrix.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 				3A453C2126CA8A24005C848F /* 18. Binary Search.swift in Sources */,
 				3A6F44EB26D38E3400348AB9 /* 33. Backspace String Compare.swift in Sources */,
 				3A910BAE26D50901008E4D0B /* 36. Product of Array Except Self.swift in Sources */,
+				3AA0F9EB27046DF40067891B /* 40. Spiral Matrix.swift in Sources */,
 				3A453C2726CAAFBA005C848F /* 21. Average of Levels in Binary Tree.swift in Sources */,
 				3ABF220626C52DE300C59FE3 /* 4. Single Number.swift in Sources */,
 				3A441EE326C4308F00A35046 /* 1. Contains Duplicate.swift in Sources */,
