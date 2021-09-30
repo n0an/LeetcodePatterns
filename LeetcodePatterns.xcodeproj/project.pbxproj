@@ -45,6 +45,7 @@
 		3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A94605F26C6B211000CE186 /* 10. Linked List Cycle.swift */; };
 		3AA0F9EB27046DF40067891B /* 40. Spiral Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA0F9EA27046DF40067891B /* 40. Spiral Matrix.swift */; };
 		3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */; };
+		3AB19FD427059EC100BF67AB /* 41. Rotate Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB19FD327059EC100BF67AB /* 41. Rotate Image.swift */; };
 		3ABF220626C52DE300C59FE3 /* 4. Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220526C52DE300C59FE3 /* 4. Single Number.swift */; };
 		3ABF220826C532F900C59FE3 /* 5. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220726C532F900C59FE3 /* 5. Climbing Stairs.swift */; };
 		3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220926C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift */; };
@@ -104,6 +105,7 @@
 		3AA0F9EA27046DF40067891B /* 40. Spiral Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "40. Spiral Matrix.swift"; sourceTree = "<group>"; };
 		3AAAC10226C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Find All Numbers Disappeared in an Array.swift"; sourceTree = "<group>"; };
 		3AAAC10426C45A2F00E4C994 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3AB19FD327059EC100BF67AB /* 41. Rotate Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41. Rotate Image.swift"; sourceTree = "<group>"; };
 		3ABF220526C52DE300C59FE3 /* 4. Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. Single Number.swift"; sourceTree = "<group>"; };
 		3ABF220726C532F900C59FE3 /* 5. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		3ABF220926C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				3A0353DF26E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift */,
 				3A232CB326FA736600B5D389 /* 39. Set Matrix Zeroes.swift */,
 				3AA0F9EA27046DF40067891B /* 40. Spiral Matrix.swift */,
+				3AB19FD327059EC100BF67AB /* 41. Rotate Image.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				3A18026526C6D46900AD6AC9 /* 11. Middle of the Linked List.swift in Sources */,
 				3ABF220826C532F900C59FE3 /* 5. Climbing Stairs.swift in Sources */,
 				3A94606026C6B211000CE186 /* 10. Linked List Cycle.swift in Sources */,
+				3AB19FD427059EC100BF67AB /* 41. Rotate Image.swift in Sources */,
 				3A18026726C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift in Sources */,
 				3A18026D26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift in Sources */,
 				3A453C2D26CBB079005C848F /* 24. Path Sum.swift in Sources */,
