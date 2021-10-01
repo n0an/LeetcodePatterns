@@ -34,6 +34,7 @@
 		3A55734726D1305E005A9562 /* 28. Lowest Common Ancestor of a Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A55734626D1305E005A9562 /* 28. Lowest Common Ancestor of a Binary Search Tree.swift */; };
 		3A55734926D255F7005A9562 /* 29. Subtree of Another Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A55734826D255F7005A9562 /* 29. Subtree of Another Tree.swift */; };
 		3A55734B26D2563E005A9562 /* 30. Invert Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A55734A26D2563E005A9562 /* 30. Invert Binary Tree.swift */; };
+		3A69878427077BFF00834B17 /* 42. Word Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A69878327077BFF00834B17 /* 42. Word Search.swift */; };
 		3A6F44E726D37E5D00348AB9 /* 31. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */; };
 		3A6F44E926D388DC00348AB9 /* 32. Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */; };
 		3A6F44EB26D38E3400348AB9 /* 33. Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */; };
@@ -93,6 +94,7 @@
 		3A55734626D1305E005A9562 /* 28. Lowest Common Ancestor of a Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Lowest Common Ancestor of a Binary Search Tree.swift"; sourceTree = "<group>"; };
 		3A55734826D255F7005A9562 /* 29. Subtree of Another Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. Subtree of Another Tree.swift"; sourceTree = "<group>"; };
 		3A55734A26D2563E005A9562 /* 30. Invert Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. Invert Binary Tree.swift"; sourceTree = "<group>"; };
+		3A69878327077BFF00834B17 /* 42. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42. Word Search.swift"; sourceTree = "<group>"; };
 		3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. Two Sum.swift"; sourceTree = "<group>"; };
 		3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
 		3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "33. Backspace String Compare.swift"; sourceTree = "<group>"; };
@@ -202,6 +204,7 @@
 				3A232CB326FA736600B5D389 /* 39. Set Matrix Zeroes.swift */,
 				3AA0F9EA27046DF40067891B /* 40. Spiral Matrix.swift */,
 				3AB19FD327059EC100BF67AB /* 41. Rotate Image.swift */,
+				3A69878327077BFF00834B17 /* 42. Word Search.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				3A18026D26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift in Sources */,
 				3A453C2D26CBB079005C848F /* 24. Path Sum.swift in Sources */,
 				3A55734326CE951C005A9562 /* 26. Merge Two Binary Trees.swift in Sources */,
+				3A69878427077BFF00834B17 /* 42. Word Search.swift in Sources */,
 				3A6F44E726D37E5D00348AB9 /* 31. Two Sum.swift in Sources */,
 				3A910BB026D509FF008E4D0B /* 34. Majority Element.swift in Sources */,
 				3A55734526CED158005A9562 /* 27. Maximum Depth of Binary Tree.swift in Sources */,
