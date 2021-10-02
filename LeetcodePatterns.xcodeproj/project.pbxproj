@@ -35,6 +35,7 @@
 		3A55734926D255F7005A9562 /* 29. Subtree of Another Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A55734826D255F7005A9562 /* 29. Subtree of Another Tree.swift */; };
 		3A55734B26D2563E005A9562 /* 30. Invert Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A55734A26D2563E005A9562 /* 30. Invert Binary Tree.swift */; };
 		3A5A71152708389E00A85264 /* 43. Longest Consecutive Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5A71142708389E00A85264 /* 43. Longest Consecutive Sequence.swift */; };
+		3A5A711727084A5900A85264 /* 44. Letter Case Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5A711627084A5900A85264 /* 44. Letter Case Permutation.swift */; };
 		3A69878427077BFF00834B17 /* 42. Word Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A69878327077BFF00834B17 /* 42. Word Search.swift */; };
 		3A6F44E726D37E5D00348AB9 /* 31. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */; };
 		3A6F44E926D388DC00348AB9 /* 32. Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */; };
@@ -96,6 +97,7 @@
 		3A55734826D255F7005A9562 /* 29. Subtree of Another Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. Subtree of Another Tree.swift"; sourceTree = "<group>"; };
 		3A55734A26D2563E005A9562 /* 30. Invert Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. Invert Binary Tree.swift"; sourceTree = "<group>"; };
 		3A5A71142708389E00A85264 /* 43. Longest Consecutive Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "43. Longest Consecutive Sequence.swift"; sourceTree = "<group>"; };
+		3A5A711627084A5900A85264 /* 44. Letter Case Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "44. Letter Case Permutation.swift"; sourceTree = "<group>"; };
 		3A69878327077BFF00834B17 /* 42. Word Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42. Word Search.swift"; sourceTree = "<group>"; };
 		3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. Two Sum.swift"; sourceTree = "<group>"; };
 		3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
@@ -208,6 +210,7 @@
 				3AB19FD327059EC100BF67AB /* 41. Rotate Image.swift */,
 				3A69878327077BFF00834B17 /* 42. Word Search.swift */,
 				3A5A71142708389E00A85264 /* 43. Longest Consecutive Sequence.swift */,
+				3A5A711627084A5900A85264 /* 44. Letter Case Permutation.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 				3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */,
 				3A453C1F26CA6942005C848F /* 17. Meeting Rooms.swift in Sources */,
 				3A5A71152708389E00A85264 /* 43. Longest Consecutive Sequence.swift in Sources */,
+				3A5A711727084A5900A85264 /* 44. Letter Case Permutation.swift in Sources */,
 				3A453C2F26CD3002005C848F /* 25. Diameter of Binary Tree.swift in Sources */,
 				3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */,
 				3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */,
