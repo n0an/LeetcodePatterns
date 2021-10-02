@@ -16,9 +16,9 @@ class Solution128 {
         var result = 0
         for num in nums {
             if countMap[num] == nil {
-                var leftSum = countMap[num - 1] ?? 0
-                var rightSum = countMap[num + 1] ?? 0
-                var streak = leftSum + rightSum + 1
+                let leftSum = countMap[num - 1] ?? 0
+                let rightSum = countMap[num + 1] ?? 0
+                let streak = leftSum + rightSum + 1
                 
                 countMap[num] = streak
                 
