@@ -15,21 +15,22 @@ class Solution46 {
     
     func permute(_ nums: [Int]) -> [[Int]] {
         self.result = []
-        var nums = nums
-        self.backtrack(0, &nums)
+        self.backtrack(0, nums)
         
         return self.result
     }
     
-    func backtrack(_ current: Int, _ nums: inout [Int]) {
+    func backtrack(_ current: Int, _ nums: [Int]) {
+        var nums = nums
         if current == nums.count {
             self.result.append(nums)
+            print(self.result)
             return
         }
         
         for i in current ..< nums.count {
             nums.swapAt(i, current)
-            self.backtrack(current + 1, &nums)
+            self.backtrack(current + 1, nums)
             nums.swapAt(i, current)
         }
     }
