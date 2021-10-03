@@ -15,7 +15,7 @@ class Solution90 {
         var result = [[Int]]()
         result.append([])
         var count = result.count
-        var nums = nums.sorted() // Simplifies skipping duplicates
+        let nums = nums.sorted() // Simplifies skipping duplicates
 
         for (i, num) in nums.enumerated() {
             let start = (i > 0 && nums[i-1] == num) ? count : 0
