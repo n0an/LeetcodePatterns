@@ -24,7 +24,6 @@ class Solution46 {
         var nums = nums
         if current == nums.count {
             self.result.append(nums)
-            print(self.result)
             return
         }
         
