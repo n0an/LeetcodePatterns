@@ -57,6 +57,7 @@
 		3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220926C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift */; };
 		3ABF220C26C5757700C59FE3 /* 7. Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220B26C5757700C59FE3 /* 7. Maximum Subarray.swift */; };
 		3AD0B009270AD78700B9EF77 /* 48. House Robber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD0B008270AD78700B9EF77 /* 48. House Robber.swift */; };
+		3AD0B00B270ADDA900B9EF77 /* 49. House Robber II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD0B00A270ADDA900B9EF77 /* 49. House Robber II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -124,6 +125,7 @@
 		3ABF220926C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		3ABF220B26C5757700C59FE3 /* 7. Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "7. Maximum Subarray.swift"; sourceTree = "<group>"; };
 		3AD0B008270AD78700B9EF77 /* 48. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48. House Robber.swift"; sourceTree = "<group>"; };
+		3AD0B00A270ADDA900B9EF77 /* 49. House Robber II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. House Robber II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -223,6 +225,7 @@
 				3A5A711A27099B9000A85264 /* 46. Subsets II.swift */,
 				3A5A711C2709AA0200A85264 /* 47. Permutations.swift */,
 				3AD0B008270AD78700B9EF77 /* 48. House Robber.swift */,
+				3AD0B00A270ADDA900B9EF77 /* 49. House Robber II.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -313,6 +316,7 @@
 				3A453C1B26CA5919005C848F /* 16. Merge Two Sorted Lists.swift in Sources */,
 				3A453C1F26CA6942005C848F /* 17. Meeting Rooms.swift in Sources */,
 				3A5A711D2709AA0200A85264 /* 47. Permutations.swift in Sources */,
+				3AD0B00B270ADDA900B9EF77 /* 49. House Robber II.swift in Sources */,
 				3A5A71152708389E00A85264 /* 43. Longest Consecutive Sequence.swift in Sources */,
 				3A5A711727084A5900A85264 /* 44. Letter Case Permutation.swift in Sources */,
 				3A453C2F26CD3002005C848F /* 25. Diameter of Binary Tree.swift in Sources */,
