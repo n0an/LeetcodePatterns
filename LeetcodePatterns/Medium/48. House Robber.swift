@@ -12,10 +12,25 @@ import Foundation
 
 class Solution198 {
     func rob(_ nums: [Int]) -> Int {
-        var arr = Array(repeating: 0, count: nums.count + 2)
-        for i in 2 ..< nums.count + 2 {
-            arr[i] = max(arr[i - 1], arr[i - 2] + nums[i - 2])
+        guard nums.isEmpty == false else { return 0 }
+        let n = nums.count
+        
+        if n == 1 { return nums[0] }
+        if n == 2 { return max(nums[0], nums[1]) }
+
+        var maxMoney = 0
+        var dp = Array(repeating: 0, count: nums.count)
+
+        dp[0] = nums[0]
+        dp[1] = max(nums[1], nums[0])
+
+        if nums.count == 2 { return dp[1] }
+
+        for i in 2 ..< nums.count {
+            dp[i] = max(dp[i-1], nums[i] + dp[i-2])
+            maxMoney = max(dp[i], maxMoney)
         }
-        return arr.last!
+
+        return maxMoney
     }
 }
