@@ -56,6 +56,7 @@
 		3ABF220826C532F900C59FE3 /* 5. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220726C532F900C59FE3 /* 5. Climbing Stairs.swift */; };
 		3ABF220A26C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220926C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift */; };
 		3ABF220C26C5757700C59FE3 /* 7. Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABF220B26C5757700C59FE3 /* 7. Maximum Subarray.swift */; };
+		3AD0B009270AD78700B9EF77 /* 48. House Robber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD0B008270AD78700B9EF77 /* 48. House Robber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -122,6 +123,7 @@
 		3ABF220726C532F900C59FE3 /* 5. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		3ABF220926C565F000C59FE3 /* 6. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		3ABF220B26C5757700C59FE3 /* 7. Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "7. Maximum Subarray.swift"; sourceTree = "<group>"; };
+		3AD0B008270AD78700B9EF77 /* 48. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48. House Robber.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -220,6 +222,7 @@
 				3A5A711827098C2100A85264 /* 45. Subsets.swift */,
 				3A5A711A27099B9000A85264 /* 46. Subsets II.swift */,
 				3A5A711C2709AA0200A85264 /* 47. Permutations.swift */,
+				3AD0B008270AD78700B9EF77 /* 48. House Robber.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				3A55734526CED158005A9562 /* 27. Maximum Depth of Binary Tree.swift in Sources */,
 				3A453C2526CA9B5A005C848F /* 20. Peak Index in a Mountain Array.swift in Sources */,
 				3A0353DE26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift in Sources */,
+				3AD0B009270AD78700B9EF77 /* 48. House Robber.swift in Sources */,
 				3A232CB426FA736600B5D389 /* 39. Set Matrix Zeroes.swift in Sources */,
 				3A0353E026E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift in Sources */,
 				3A441EE126C4303900A35046 /* 2. Missing number.swift in Sources */,
