@@ -218,7 +218,6 @@
 				3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */,
 				3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */,
 				3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */,
-				3A76975C276F833F0088DA2F /* Convert1DArrayInto2DArray.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -226,6 +225,7 @@
 		3A910BB426D50C10008E4D0B /* Medium */ = {
 			isa = PBXGroup;
 			children = (
+				3A76975C276F833F0088DA2F /* Convert1DArrayInto2DArray.swift */,
 				3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */,
 				3A0353DD26E0C13F0050F8FD /* 37. Find the Duplicate Number.swift */,
 				3A0353DF26E0C20E0050F8FD /* 38. Find All Duplicates in an Array.swift */,
