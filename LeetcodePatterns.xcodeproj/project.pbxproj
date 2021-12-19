@@ -43,6 +43,7 @@
 		3A6F44E726D37E5D00348AB9 /* 31. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */; };
 		3A6F44E926D388DC00348AB9 /* 32. Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */; };
 		3A6F44EB26D38E3400348AB9 /* 33. Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */; };
+		3A769747276F6B160088DA2F /* Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A769746276F6B160088DA2F /* Minimum Window Substring.swift */; };
 		3A910BAE26D50901008E4D0B /* 36. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */; };
 		3A910BB026D509FF008E4D0B /* 34. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */; };
 		3A910BB226D50B22008E4D0B /* 35. Index Pairs of a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */; };
@@ -110,6 +111,7 @@
 		3A6F44E626D37E5D00348AB9 /* 31. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. Two Sum.swift"; sourceTree = "<group>"; };
 		3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
 		3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "33. Backspace String Compare.swift"; sourceTree = "<group>"; };
+		3A769746276F6B160088DA2F /* Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum Window Substring.swift"; sourceTree = "<group>"; };
 		3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. Majority Element.swift"; sourceTree = "<group>"; };
 		3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Index Pairs of a String.swift"; sourceTree = "<group>"; };
@@ -163,8 +165,17 @@
 				3A453C3026CD302F005C848F /* TreeNode.swift */,
 				3A910BB326D50C07008E4D0B /* Easy */,
 				3A910BB426D50C10008E4D0B /* Medium */,
+				3A769748276F6B2E0088DA2F /* Hard */,
 			);
 			path = LeetcodePatterns;
+			sourceTree = "<group>";
+		};
+		3A769748276F6B2E0088DA2F /* Hard */ = {
+			isa = PBXGroup;
+			children = (
+				3A769746276F6B160088DA2F /* Minimum Window Substring.swift */,
+			);
+			path = Hard;
 			sourceTree = "<group>";
 		};
 		3A910BB326D50C07008E4D0B /* Easy */ = {
@@ -258,7 +269,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastUpgradeCheck = 1320;
 				TargetAttributes = {
 					3A441ED526C42F4B00A35046 = {
 						CreatedOnToolsVersion = 13.0;
@@ -318,6 +329,7 @@
 				3A5A711D2709AA0200A85264 /* 47. Permutations.swift in Sources */,
 				3AD0B00B270ADDA900B9EF77 /* 49. House Robber II.swift in Sources */,
 				3A5A71152708389E00A85264 /* 43. Longest Consecutive Sequence.swift in Sources */,
+				3A769747276F6B160088DA2F /* Minimum Window Substring.swift in Sources */,
 				3A5A711727084A5900A85264 /* 44. Letter Case Permutation.swift in Sources */,
 				3A453C2F26CD3002005C848F /* 25. Diameter of Binary Tree.swift in Sources */,
 				3AAAC10326C457EB00E4C994 /* 3. Find All Numbers Disappeared in an Array.swift in Sources */,
@@ -463,6 +475,7 @@
 		3A441EDE26C42F4B00A35046 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 358V8FBM3U;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -474,6 +487,7 @@
 		3A441EDF26C42F4B00A35046 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 358V8FBM3U;
 				ENABLE_HARDENED_RUNTIME = YES;
