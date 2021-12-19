@@ -44,6 +44,7 @@
 		3A6F44E926D388DC00348AB9 /* 32. Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */; };
 		3A6F44EB26D38E3400348AB9 /* 33. Backspace String Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */; };
 		3A769747276F6B160088DA2F /* Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A769746276F6B160088DA2F /* Minimum Window Substring.swift */; };
+		3A76975D276F833F0088DA2F /* Convert1DArrayInto2DArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A76975C276F833F0088DA2F /* Convert1DArrayInto2DArray.swift */; };
 		3A910BAE26D50901008E4D0B /* 36. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */; };
 		3A910BB026D509FF008E4D0B /* 34. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */; };
 		3A910BB226D50B22008E4D0B /* 35. Index Pairs of a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */; };
@@ -112,6 +113,7 @@
 		3A6F44E826D388DC00348AB9 /* 32. Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
 		3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "33. Backspace String Compare.swift"; sourceTree = "<group>"; };
 		3A769746276F6B160088DA2F /* Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum Window Substring.swift"; sourceTree = "<group>"; };
+		3A76975C276F833F0088DA2F /* Convert1DArrayInto2DArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Convert1DArrayInto2DArray.swift; sourceTree = "<group>"; };
 		3A910BAD26D50901008E4D0B /* 36. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. Majority Element.swift"; sourceTree = "<group>"; };
 		3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Index Pairs of a String.swift"; sourceTree = "<group>"; };
@@ -216,6 +218,7 @@
 				3A6F44EA26D38E3400348AB9 /* 33. Backspace String Compare.swift */,
 				3A910BAF26D509FF008E4D0B /* 34. Majority Element.swift */,
 				3A910BB126D50B22008E4D0B /* 35. Index Pairs of a String.swift */,
+				3A76975C276F833F0088DA2F /* Convert1DArrayInto2DArray.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -312,6 +315,7 @@
 				3AB19FD427059EC100BF67AB /* 41. Rotate Image.swift in Sources */,
 				3A18026726C7B7DD00AD6AC9 /* 15. Reverse Linked List.swift in Sources */,
 				3A18026D26C9830300AD6AC9 /* 14. Remove Duplicates from Sorted List.swift in Sources */,
+				3A76975D276F833F0088DA2F /* Convert1DArrayInto2DArray.swift in Sources */,
 				3A453C2D26CBB079005C848F /* 24. Path Sum.swift in Sources */,
 				3A55734326CE951C005A9562 /* 26. Merge Two Binary Trees.swift in Sources */,
 				3A69878427077BFF00834B17 /* 42. Word Search.swift in Sources */,
